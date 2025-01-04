@@ -1,0 +1,17 @@
+.DS_Store
+main.c
+*.dSYM
+main
+a.out*
+*.o
+*.a
+.vscode
+.bash_history
+*.txt
+*.gch
+push_swap
+checker_Mac
+checker_linux
+checker
+push_swap_tester
+push_swap_visualizer

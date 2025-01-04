@@ -1,0 +1,10 @@
+.DS_Store
+main.c
+main.dSYM
+main
+a.out*
+*.o
+*.a
+.vscode
+libftTester
+.bash_history
