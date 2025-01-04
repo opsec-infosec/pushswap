@@ -58,6 +58,10 @@ The last element becomes the first one.
 10. You are not allowed to use any libc function libraries, such as strlen, isdigit... etc. You must create your own.
 11. You must create a makefile that compiles your libc and printf as a library.
 12. You must create a makefile for your program and link your libraries from step 11 above.
+13. for loops, macros and global variables are forbidden
+14. Functions can only be 25 lines maximum and 80 columns long.
+15. Each .c file must only contain a maximum of 4 functions.
+16. All .h files must include guards and can only include prototypes.
 
 ## Compiling
 
